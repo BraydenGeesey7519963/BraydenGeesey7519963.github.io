@@ -40,7 +40,7 @@ $(function () {
     createPlatform(300, 245, 105, 15)
     createPlatform(625, 130, 105, 15)
     // TODO 3 - Create Collectables
-
+    createCollectable(Steve, 350, 450)
 
 
     
