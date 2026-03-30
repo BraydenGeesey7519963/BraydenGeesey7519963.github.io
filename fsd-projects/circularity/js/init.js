@@ -39,8 +39,11 @@ function drawCircle() {
 
 
         // TODO 3 : Call the drawCircle() function
-
-
+drawCircle()
+drawCircle()
+drawCircle()
+drawCircle()
+drawCircle()
 
         // TODO 7 : Use a loop to create multiple circles
 
